@@ -51,6 +51,7 @@
 		C01F1EF225C32E4D002D0C99 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C01F1EEF25C32E4D002D0C99 /* SwiftUIView.swift */; };
 		C01F1EF325C32E4D002D0C99 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C01F1EEF25C32E4D002D0C99 /* SwiftUIView.swift */; };
 		C01F1EF425C32E4D002D0C99 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C01F1EEF25C32E4D002D0C99 /* SwiftUIView.swift */; };
+		C01F1EFA25C3315F002D0C99 /* Animal.swift in Sources */ = {isa = PBXBuildFile; fileRef = C01F1EAE25C31EF6002D0C99 /* Animal.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -637,6 +638,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C01F1EF425C32E4D002D0C99 /* SwiftUIView.swift in Sources */,
+				C01F1EFA25C3315F002D0C99 /* Animal.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
