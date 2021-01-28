@@ -41,6 +41,7 @@
 		C01F1EB925C31F8E002D0C99 /* AnmimalService.swift in Sources */ = {isa = PBXBuildFile; fileRef = C01F1EB725C31F8E002D0C99 /* AnmimalService.swift */; };
 		C01F1EBA25C31F8E002D0C99 /* AnmimalService.swift in Sources */ = {isa = PBXBuildFile; fileRef = C01F1EB725C31F8E002D0C99 /* AnmimalService.swift */; };
 		C01F1EBB25C31F8E002D0C99 /* AnmimalService.swift in Sources */ = {isa = PBXBuildFile; fileRef = C01F1EB725C31F8E002D0C99 /* AnmimalService.swift */; };
+		C01F1ECE25C323B4002D0C99 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C01F1ECD25C323B4002D0C99 /* DetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -141,6 +142,7 @@
 		C01F1EAD25C31EF5002D0C99 /* SwiftUIForAllDevices-watchios-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SwiftUIForAllDevices-watchios-Bridging-Header.h"; sourceTree = "<group>"; };
 		C01F1EAE25C31EF6002D0C99 /* Animal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animal.swift; sourceTree = "<group>"; };
 		C01F1EB725C31F8E002D0C99 /* AnmimalService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnmimalService.swift; sourceTree = "<group>"; };
+		C01F1ECD25C323B4002D0C99 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -205,6 +207,7 @@
 			children = (
 				C01F1E2925C3174D002D0C99 /* AppDelegate.swift */,
 				C01F1E2B25C3174D002D0C99 /* SceneDelegate.swift */,
+				C01F1ECD25C323B4002D0C99 /* DetailView.swift */,
 				C01F1E2D25C3174D002D0C99 /* ContentView.swift */,
 				C01F1E2F25C3174E002D0C99 /* Assets.xcassets */,
 				C01F1E3425C3174E002D0C99 /* LaunchScreen.storyboard */,
@@ -499,6 +502,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C01F1E2A25C3174D002D0C99 /* AppDelegate.swift in Sources */,
+				C01F1ECE25C323B4002D0C99 /* DetailView.swift in Sources */,
 				C01F1EAF25C31EF6002D0C99 /* Animal.swift in Sources */,
 				C01F1EB825C31F8E002D0C99 /* AnmimalService.swift in Sources */,
 				C01F1E2C25C3174D002D0C99 /* SceneDelegate.swift in Sources */,
